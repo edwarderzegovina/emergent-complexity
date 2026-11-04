@@ -1,0 +1,15 @@
+# Build output
+build/
+cmake-build-*/
+out/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# The full .pptx (275 MB, with videos) is attached to the GitHub Release instead
+*.pptx
